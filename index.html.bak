@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>640510310</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic"
+      rel="stylesheet" type="text/css">
+    <!-- MAIN CONTAINER -->
+    <link type="text/css" rel="alternate stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+  </head>
+  <body><br>
+    <div id="main_container">
+      <div id="header"> <span style="color: #993300;"><b> </b></span>
+        <div class="header_logotype_container"><span style="color: #993300;"><b>
+            </b></span>
+          <h1 class="logotype_name"><span style="color: #fd7e00;"><b><span style="color: #3333ff;">teacher</span>
+                <span class="purple" style="color: #6633ff;">librarian</span></b></span></h1>
+        </div>
+        <div class="header_menu_container">
+          <div class="clear"></div>
+        </div>
+      </div>
+      <br>
+      <div id="left_col">
+        <div class="profile_frame"><span style="color: #141414;"><img src="images/thanasak.jpg"
+              alt="profile picture" style="width: 240px; height: 278px;">&nbsp;
+          </span></div>
+        <span style="color: #141414;"> </span>
+        <div class="hello_content">
+          <h2><span style="color: #fc7e00;"><b>Personal information</b><br>
+            </span></h2>
+          <p><span style="color: #141414;">myname is Thanasak Tonglvun</span></p>
+          <p><span style="color: #141414;">mynickname is Earth</span></p>
+          <p><span style="color: #141414;">my birthday is 8 march 2003 <br>
+              <br>
+            </span></p>
+        </div>
+        <span style="color: #141414;"> </span>
+        <div class="contact_details_content">
+          <h2><span style="color: #f97c00;"><b>Contact details</b></span></h2>
+          <p class="black"><span style="color: #141414;">Phone:</span></p>
+          <p><span style="color: #141414;">098 2932787<br>
+            </span></p>
+          <p class="purple"><span style="color: #141414;">Email:</span></p>
+          <p style="background-color: white;"><a href="mailto:tonglvun_t@silpakorn.edu"><span
+                style="color: #141414;">tonglvun_t@silpakorn.edu</span></a></p>
+          <p style="background-color: white;"><a href="mailto:tonglvun_t@silpakorn.edu"><span
+                style="color: #141414;"><br>
+              </span></a></p>
+          <p style="background-color: white;"><a href="mailto:tonglvun_t@silpakorn.edu"><span
+                style="color: #141414;">Adress:</span></a></p>
+          <p style="background-color: white;"><a href="mailto:tonglvun_t@silpakorn.edu"><span
+                style="color: #141414;">18 moo 5 tambon jetsamian amphor
+                photharam ratchaburi 70120<br>
+              </span></a></p>
+        </div>
+        <span style="color: #141414;"> <br>
+        </span>
+        <div class="get_social_content">
+          <h2><span style="color: #3333ff;"><b>Get social</b></span></h2>
+          <ul class="social_icons horizontal_list">
+            <li><span style="color: #141414;"><a class="facebook" href="https://www.facebook.com/nongearth.wattuk"><span
+                    class="entypo-facebook-circled"></span><span class="invisible">Facebook</span></a></span></li>
+          </ul>
+        </div>
+        <span style="color: #141414;"> </span></div>
+      <span style="color: #141414;"> </span>
+      <div id="content_container"><span style="color: #141414;"> </span>
+        <div class="block">
+          <h1><span style="color: #f97c00;"><b>Profile</b></span></h1>
+          <blockquote class="profile_quote">¸<span style="color: #141414;">The
+              best preparation for tomorrow is doing your best today<br>
+            </span> </blockquote>
+        </div>
+        <span style="color: #141414;"> </span>
+        <div class="block">
+          <h2><span style="color: #fd7e00;"><b>A few words about me</b></span></h2>
+          <p><span style="color: #141414;">When I was in elementary school, I
+              studied at Somsak Witthaya. <br>
+            </span></p>
+          <p><span style="color: #141414;">Secondary school is at
+              Phothawatthanaseni.<br>
+            </span></p>
+          <p><span style="color: #141414;">I'm at silpakorn university <br>
+            </span></p>
+        </div>
+        <span style="color: #141414;"> </span>
+        <div class="horizontal_line"> </div>
+        <span style="color: #141414;"> </span>
+        <div class="block">
+          <h2><span style="color: #fd7e00;"><b>MYSKILL</b><br>
+            </span></h2>
+          <p><span style="color: #141414;">Work well with others <br>
+            </span></p>
+          <p><span style="color: #141414;">Computer and technical literacy</span></p>
+          <p><span style="color: #141414;">Able to use Microsoft Office
+              proficiently<br>
+            </span></p>
+          <p><span style="color: #141414;"><span style="color: #e4e3e8;"></span><br>
+            </span></p>
+        </div>
+        <span style="color: #141414;"></span><span style="color: #141414;"></span>
+        <div class="last block">
+          <h2><span style="color: #141414;"><b style="color: #fd7e00;">Hobbies</b></span></h2>
+          <span style="color: #141414;"> </span>
+          <p style="background-color: white;"><span style="color: #141414;">My
+              hobbies are reading and listening to music and playing game .<br>
+            </span></p>
+          <p><span style="color: #141414;"><br>
+            </span></p>
+          <span style="color: #141414;"> </span> </div>
+      </div>
+      <div class="clear"></div>
+      <br>
+      <div id="footer">
+        <p class="footer_name"><br>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
